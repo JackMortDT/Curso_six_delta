@@ -2,4 +2,6 @@
 
 Hola Mundo
 Como estas?
-:D
+:D.
+
+Primera sesión, en un curso de git
