@@ -11,4 +11,11 @@ public class MultiplosTest{
 		int result = m.calculateFor(10);
 		assertEquals(23, result);
 	}
+
+	@Test
+	public void secondTest(){
+		Multiplos m = new Multiplos();
+		int result = m.calculateFor(1000);
+		assertEquals(233168, result);
+	}
 }
